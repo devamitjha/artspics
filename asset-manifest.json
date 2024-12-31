@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b79d9c6.css",
+    "main.js": "/static/js/main.82731b45.js",
+    "static/js/488.1c377744.chunk.js": "/static/js/488.1c377744.chunk.js",
+    "static/media/video.mp4": "/static/media/video.66a283b487b571d5601a.mp4",
+    "static/media/Rings.mp4": "/static/media/Rings.7a626217799dd3718010.mp4",
+    "static/media/Bangle.mp4": "/static/media/Bangle.66ecf8f11a7140eddfa4.mp4",
+    "static/media/3.jpg": "/static/media/3.79a9d553dc7a95b302a6.jpg",
+    "static/media/4.jpg": "/static/media/4.0e097fd2eb72e3c562ba.jpg",
+    "static/media/pendant.jpg": "/static/media/pendant.bae66dd11076ead2bb98.jpg",
+    "static/media/earring.jpg": "/static/media/earring.a290d1d20e6d7f791218.jpg",
+    "static/media/model.jpg": "/static/media/model.38440271cefb6e7809dc.jpg",
+    "static/media/chain.jpg": "/static/media/chain.0c88d87a808f89d6c2b2.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.7a448ba8c2d2a721fd82.jpg",
+    "static/media/ring.jpg": "/static/media/ring.618f8258eac1a65557e2.jpg",
+    "static/media/car.jpg": "/static/media/car.f4ac602f067dc9e9ad63.jpg",
+    "static/media/category-sample.jpg": "/static/media/category-sample.7538a2224150675c22ed.jpg",
+    "static/media/compare-1.jpg": "/static/media/compare-1.7538a2224150675c22ed.jpg",
+    "static/media/compare-2.jpg": "/static/media/compare-2.1c09ea64abfc42df0420.jpg",
+    "static/media/2.jpg": "/static/media/2.80ab56e42a092150c197.jpg",
+    "static/media/1.jpg": "/static/media/1.750d8c9c178c9015a9ee.jpg",
+    "static/media/idea.svg": "/static/media/idea.667b727bdc298b260344fd5149623735.svg",
+    "index.html": "/index.html",
+    "main.2b79d9c6.css.map": "/static/css/main.2b79d9c6.css.map",
+    "main.82731b45.js.map": "/static/js/main.82731b45.js.map",
+    "488.1c377744.chunk.js.map": "/static/js/488.1c377744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b79d9c6.css",
+    "static/js/main.82731b45.js"
+  ]
+}
