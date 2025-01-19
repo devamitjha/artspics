@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c3c9092.css",
-    "main.js": "/static/js/main.7f07050a.js",
-    "static/js/488.1c377744.chunk.js": "/static/js/488.1c377744.chunk.js",
+    "main.css": "/static/css/main.48b4c656.css",
+    "main.js": "/static/js/main.5c4010d4.js",
+    "static/js/488.a79d0566.chunk.js": "/static/js/488.a79d0566.chunk.js",
     "static/media/video.mp4": "/static/media/video.66a283b487b571d5601a.mp4",
     "static/media/Rings.mp4": "/static/media/Rings.7a626217799dd3718010.mp4",
     "static/media/Bangle.mp4": "/static/media/Bangle.66ecf8f11a7140eddfa4.mp4",
     "static/media/3.jpg": "/static/media/3.794b64a313563f7e41b2.jpg",
     "static/media/4.jpg": "/static/media/4.424334e1ecfa7cfa9053.jpg",
+    "static/media/model-2.jpg": "/static/media/model-2.f6406004f5782baa02ca.jpg",
     "static/media/banner-1.jpg": "/static/media/banner-1.7a448ba8c2d2a721fd82.jpg",
+    "static/media/model-1.jpg": "/static/media/model-1.8584ebb356fb563b752c.jpg",
     "static/media/1.jpg": "/static/media/1.750d8c9c178c9015a9ee.jpg",
     "static/media/6.jpg": "/static/media/6.77b47ddea7ac6e5d5c07.jpg",
     "static/media/after-2.jpg": "/static/media/after-2.58a5edfbb55cf3bacfc6.jpg",
@@ -23,14 +25,30 @@
     "static/media/before.jpg": "/static/media/before.9a5a93a32fbe2f25c998.jpg",
     "static/media/ui-ux-design.jpg": "/static/media/ui-ux-design.e4f5f702ae5129a7770a.jpg",
     "static/media/creative-solutions.jpg": "/static/media/creative-solutions.a0a60d5127f6f2bbbb64.jpg",
-    "static/media/idea.svg": "/static/media/idea.667b727bdc298b260344fd5149623735.svg",
+    "static/media/multimedia.svg": "/static/media/multimedia.357d54662ddf1f07a34b88f7547eaf76.svg",
+    "static/media/socialmedia.svg": "/static/media/socialmedia.b068b6264413439c2fe837aaa0aa33b3.svg",
+    "static/media/marketplacecreatives.svg": "/static/media/marketplacecreatives.8bacb60b20afcf7e05dd4c6f1748bc6a.svg",
+    "static/media/productphotography.svg": "/static/media/productphotography.e35c21ad539978b7396dc7b0efc970c3.svg",
+    "static/media/place-an-enquiry.svg": "/static/media/place-an-enquiry.a0ccbaa8ac61bbd949eb71d9bedeb09a.svg",
+    "static/media/inspiration.svg": "/static/media/inspiration.2307f31f426ca3a08ebe05e36363ab5d.svg",
+    "static/media/e-commercephotography.svg": "/static/media/e-commercephotography.3f5b190aedb3eecf102ec916543d24a7.svg",
+    "static/media/jewelleryretouching.svg": "/static/media/jewelleryretouching.9fa03ec1a7b00c307377b862f7844dd4.svg",
+    "static/media/uidesign.svg": "/static/media/uidesign.33e5ad50e151f30045431518812ccd60.svg",
+    "static/media/what-you-need.svg": "/static/media/what-you-need.e0230a53d7d41e2df0e901dc0badf252.svg",
+    "static/media/jewelryrendering.svg": "/static/media/jewelryrendering.874a713f5ef07ca6ce80dcc7a9e31e00.svg",
+    "static/media/modeling.svg": "/static/media/modeling.8c4c964be4e8a0a6c46c840140a6f991.svg",
+    "static/media/photoediting.svg": "/static/media/photoediting.1dc125239a0d5faa55218a9bb0f36dca.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.4c3c9092.css.map": "/static/css/main.4c3c9092.css.map",
-    "main.7f07050a.js.map": "/static/js/main.7f07050a.js.map",
-    "488.1c377744.chunk.js.map": "/static/js/488.1c377744.chunk.js.map"
+    "main.48b4c656.css.map": "/static/css/main.48b4c656.css.map",
+    "main.5c4010d4.js.map": "/static/js/main.5c4010d4.js.map",
+    "488.a79d0566.chunk.js.map": "/static/js/488.a79d0566.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c3c9092.css",
-    "static/js/main.7f07050a.js"
+    "static/css/main.48b4c656.css",
+    "static/js/main.5c4010d4.js"
   ]
 }
